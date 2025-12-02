@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/groovebox/train/model.ckpt-0"
+all_model_checkpoint_paths: "/tmp/groovebox/train/model.ckpt-0"
